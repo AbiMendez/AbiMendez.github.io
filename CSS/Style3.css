@@ -1,0 +1,39 @@
+.section_container {
+    padding: 30px;
+}
+
+.section {
+    width: 100%;
+}
+
+.container_subtitle {
+    text-align: center;
+}
+
+.container_paragraph {
+    text-align: justify;
+}
+
+.container_date {
+    margin-bottom: 15px;
+}
+
+.container_picture {
+    display: flex;
+    justify-content: center;
+}
+
+.container_img{
+    width: 300px;
+    height: 300px;
+    margin: 50px;
+    
+}
+
+.container {
+    height: 270vh;
+}
+
+.container_section {
+    height: 210vh;
+} 

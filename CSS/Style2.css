@@ -1,0 +1,19 @@
+.container {
+    height: 700vh;
+}
+
+.container_section {
+    height: 640vh;
+}
+
+.section_container {
+    background-color: #c3d6ed;
+    margin:30px;
+    border-radius: 15px;
+    padding-top: 20px;
+}
+.section {
+    width: 100%;
+}
+
+
